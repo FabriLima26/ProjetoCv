@@ -1,0 +1,88 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    font-size: 21px;
+    background-color: rgba(28, 1, 78, 0.4);
+    border-bottom: 3px solid #333;
+    padding: 5px 0 5px 10px;
+    
+}
+h3{
+    font-size: 16px;
+
+}
+#Principal{
+    width: 90%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+.Nome{
+    text-align: center;
+    color:white;
+    margin: 0px 0 80px 0;
+    font-size: 26px;
+    background-color:rgba(73, 65, 65, 0.8);
+    padding: 20px 0 20px 0px;
+    overflow: auto;
+    
+}
+.Nav li{
+    display: block;
+    position: absolute;
+    width: 100px;
+}
+a :hover{
+    background-color:rgba(0,0,0, 0.2)
+}
+.Link{
+    width: 100%;
+    height: 100%;
+}
+.Linkli{
+    top: 20px;
+    right: 150px;
+}
+.Face{
+    width: 100%;
+    height: 100%;
+}
+.Faceli{
+    top: 20px;
+    right: 20px;
+    
+}
+.Eu{
+   padding: 0;
+   margin: 0 0 0 300px;
+   width: 40%;
+   height: 40%;
+   
+}
+.Informacoes{
+    overflow: auto;
+}
+.Informacoes li{
+    list-style: none;
+}
+.Informacoes ul{
+    width: 300px;
+    float: left;
+    top: 0;
+}
+
+.Atribuicoes{
+    font-size: 16px;  
+}
+hr{
+    box-shadow: 0px 5px 5px 2px;
+}
+.Rodape{
+    color: white;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    background-color: rgba(9, 9, 58, 0.856);
+}
